@@ -1,6 +1,6 @@
 # Gesture
 
-![Chat Application](https://chat-prompt.web.app)
+(https://chat-prompt.web.app)
 
 ## Introduction
 This is the second update to my chat app - Gesture. A web app where you can chat with your friends along with images, multiple rooms, admin privilages, Google/Facebook sign in all in realtime.
